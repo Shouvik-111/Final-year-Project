@@ -1,0 +1,1 @@
+# A data mining application for discovering positive and negative association rules in medical symptom-disease datasets
